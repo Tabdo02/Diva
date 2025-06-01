@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447991097509",
+    "project_id": "diva-68985",
+    "storage_bucket": "diva-68985.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447991097509:android:77f768d6924b490667c54c",
+        "android_client_info": {
+          "package_name": "com.example.diva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-5p5HjIm4gUtR96x5Ra1QouxGD1Jv_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
